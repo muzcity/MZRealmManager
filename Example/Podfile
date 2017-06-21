@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MZRealmManager_Example' do
+  pod 'MZRealmManager', :path => '../'
+
+  target 'MZRealmManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
