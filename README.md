@@ -1,6 +1,6 @@
 # MZRealmManager
 
-[![CI Status](http://img.shields.io/travis/roy@buzzni.com/MZRealmManager.svg?style=flat)](https://travis-ci.org/roy@buzzni.com/MZRealmManager)
+[![CI Status](http://img.shields.io/travis/muzcity/MZRealmManager.svg?style=flat)](https://travis-ci.org/muzcity/MZRealmManager)
 [![Version](https://img.shields.io/cocoapods/v/MZRealmManager.svg?style=flat)](http://cocoapods.org/pods/MZRealmManager)
 [![License](https://img.shields.io/cocoapods/l/MZRealmManager.svg?style=flat)](http://cocoapods.org/pods/MZRealmManager)
 [![Platform](https://img.shields.io/cocoapods/p/MZRealmManager.svg?style=flat)](http://cocoapods.org/pods/MZRealmManager)
@@ -22,7 +22,7 @@ pod "MZRealmManager"
 
 ## Author
 
-roy@buzzni.com, muzcity@gmail.com
+muzcity, muzcity@gmail.com
 
 ## License
 
